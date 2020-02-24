@@ -10,7 +10,7 @@ CNN_model3.ipynb\
 CNN_model4.ipynb\
 CNN_model5.ipynb
 
-# Create k-fold datasets\
+# Create k-fold datasets
 CNN_tf-keras_kfold.ipynb
 
 # Ansembling
