@@ -1,5 +1,7 @@
-# ukiyoe
+# Description
+Convolutional Neural Network(CNN) based on tensorflow 2.x.\
 CNN for Ukiyoe(Japanese traditional art) by tensorflow(keras).\
+The dataset is published from ProbSpace.\
 https://prob.space/competitions/ukiyoe-author
 
 # Model(five models)
